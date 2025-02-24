@@ -1,6 +1,6 @@
 <head>
     <meta charset="utf-8" />
-    <title>Sanjary Furniture</title>
+    <title>Sanjary Furniture Website</title>
     <base href="/public">
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <meta name="description" content="" />
