@@ -7,7 +7,7 @@
                 <div class="container">
                     <div class="header-wrap">
                         <div class="logo logo-width-1">
-                            <a href="{{ url('/') }}"><img src="home/assets/imgs/theme/logo.jpg" alt="logo" /></a>
+                            <a href="{{ url('/') }}"><img src="home/assets/imgs/theme/sanjary-logo.png" alt="logo" /></a>
                         </div>
                         <div class="header-right">
                             <form action="{{url('search')}}" method="GET">
@@ -130,7 +130,7 @@
                     <div class="header-wrap header-space-between position-relative">
                         <div class="logo logo-width-1 d-block d-lg-none">
                             <a href="{{ url('/') }}">
-                                <img src="home/assets/imgs/theme/logo.jpg" class="mobile_logo" alt="logo" /></a>
+                                <img src="home/assets/imgs/theme/sanjary-logo.png" class="mobile_logo" alt="logo" /></a>
                         </div>
                         <div class="header-nav d-none d-lg-flex">
                             <div class="main-categori-wrap d-none d-lg-block">
@@ -285,7 +285,7 @@
             <div class="mobile-header-wrapper-inner">
                 <div class="mobile-header-top">
                     <div class="mobile-header-logo">
-                        <a href="{{ url('/') }}"><img src="home/assets/imgs/theme/logo.jpg" alt="logo" /></a>
+                        <a href="{{ url('/') }}"><img src="home/assets/imgs/theme/sanjary-logo.png" alt="logo" /></a>
                     </div>
                     <div class="mobile-menu-close close-style-wrap close-style-position-inherit">
                         <button class="close-style search-close">

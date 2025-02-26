@@ -105,7 +105,7 @@
                     <h4 class="widget-title">Secured Payment</h4>
                    <img class="" src="home/assets/imgs/theme/payment-method.png" alt="" />
                     <hr>
-                     <p  class="font-sm mb-0"> © 2024 All Rights Reserved  By <strong class="text-brand"> Delite </strong> </p>
+                     <p  class="font-sm mb-0"> © 2024 All Rights Reserved  By <strong class="text-brand"> Sanjary Furniture </strong> </p>
                 </div>
                 </div>
                 </div>

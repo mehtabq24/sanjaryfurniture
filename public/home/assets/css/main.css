@@ -7126,9 +7126,10 @@ h6.post-title {
 }
 
 .logo.logo-width-1 a img {
-  width: 130px;
+  width: 150px;
   position: absolute;
   top: -10px;
+  left: 35px;
 }
 
 .search-style-1 form {
